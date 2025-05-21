@@ -1,2 +1,2 @@
-# Kim-Deli-s
+# KimDelis
 Ven y prueba las mejoras donas de todo guadalajara.
