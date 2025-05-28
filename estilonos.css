@@ -1,0 +1,51 @@
+*{ 
+        padding: 2px;
+         box-sizing: border-box;
+    }
+
+body {
+       font-family: Cambria;
+     }
+
+#encabezado {
+        background-color: #FFFFFF;
+          text-align: center; 
+           font-size: 35px;
+           color: #FFBAF0;
+           height: auto;
+ }
+
+.navbar { 
+                   margin: 20px;
+                   padding: 25px;
+                   text-align: left;
+                   font-size: 18px;
+                   list-style-type:none;
+                   height: auto;
+                   background-color: #c5fff4;
+              }
+
+#columna_principal {
+float: left; 
+width: 70%; 
+height: 700px;
+background-color: #FFBAF0;
+}
+
+
+#columna_publicidad {
+float: left; 
+width: 30%; 
+height: 700px;
+background-color: #00FA9A;
+}
+
+
+#pie {
+clear: both; 
+display: flex; 
+background-color: #fffcc5;
+height: 80px;
+text-align: center;
+color: black;
+}
