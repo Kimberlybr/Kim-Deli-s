@@ -13,13 +13,13 @@ html{
                float: left;
                margin: 15px;
              }
-ul#menu {
+ul #menu {
               margin: 1px;
               padding: 1px;
               list-style-type:none
             }
 
-#menu li {
+# menu li {
                 background-color:#CCB3C4;
                 border:white 3px solid;
                 margin: 1px;
